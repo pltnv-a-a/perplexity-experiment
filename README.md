@@ -28,7 +28,7 @@ Install requirements:
 pip install -r requirements.txt
 ```
 
-##🧪 **Reproduce the Experiment**
+## 🧪 Reproduce the Experiment
  1 Run perplexity measurements:
 
 ```bash
