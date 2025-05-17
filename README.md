@@ -14,7 +14,7 @@ This repository contains code and data for analyzing the impact of quantization 
 | 7B    | 13.1 GB   | 4.8 GB    | 5.55     | 5.46     | 5.46     |
 | 13B   | 24.3 GB   | 8.9 GB    | 5.17     | 5.12     | 5.08     |
 
-Full results: [`data/results_common.csv`](data/results_common.csv)
+Full results: [`/results_common.csv`](data/results_common.csv)
 
 ## 🛠️ Setup
 
