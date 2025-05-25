@@ -30,7 +30,9 @@ pip install -r requirements.txt
  1 Run perplexity measurements:
 
 ```bash
-jupyter notebook notebooks/perplexity_experiment.ipynb
+jupyter notebook notebooks/perplexity_experiment_3B.ipynb
+jupyter notebook notebooks/perplexity_experiment_7B.ipynb
+jupyter notebook notebooks/perplexity_experiment_13B.ipynb
 ```
  ◦ Modify model_path and quant_type in the notebook.
  
